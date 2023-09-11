@@ -2,7 +2,7 @@
 
 Welcome to the Digital Image Processing repo! This repo delves into the fascinating world of digital images, exploring their characteristics, color models, perception, representation methods, histogram transformations, 2-dimensional digital convolution and filtering, segmentation, image coding, and compression.
 
-## repo Overview
+## Repo Overview
 
 In this repo, we will unravel the intricacies of digital images, their properties, and various techniques to manipulate and analyze them. By the end of this repo, you will have achieved the following learning outcomes:
 
